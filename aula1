@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página com Cores</title>
+
+    <style>
+        body {
+            background-color: #f0f8ff; /* cor de fundo da página */
+            color: #333333; /* cor padrão do texto */
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: #2c3e50; /* cor do título */
+        }
+
+        p {
+            color: #555555; /* cor do parágrafo */
+        }
+
+        a {
+            color: #1e90ff; /* cor do link */
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>Olá, mundo colorido!</h1>
+    <p>Agora minha página tem cores e estilo.</p>
+
+    <a href="https://www.google.com">Ir para o Google</a>
+
+</body>
+</html>
